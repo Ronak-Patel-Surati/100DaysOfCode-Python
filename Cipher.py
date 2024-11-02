@@ -1,3 +1,4 @@
+# An Encryption and Decryption Program. very basic
 text = 'mrttaqrhknsw ih puggrur'
 custom_key = 'python'
 

@@ -1,3 +1,4 @@
+#Made an expenses tracker for goverment officals for keep accounts of money. Yes, accounting only requires High School level Math as indexation and tallying the accounts is for Adults.
 def add_expense(expenses, amount, category):
     expenses.append({'amount': amount, 'category': category})
     
