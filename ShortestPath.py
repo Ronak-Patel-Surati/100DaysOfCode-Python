@@ -1,3 +1,7 @@
+#Dijkstra's algorithm 
+# A Python project on shortest distance between any two nodes.
+# I do think my high school gf was python 
+
 my_graph = {
     'A': [('B', 5), ('C', 3), ('E', 11)],
     'B': [('A', 5), ('C', 1), ('F', 2)],
