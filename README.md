@@ -6,3 +6,5 @@ Learnt about the Python basics, string manuplilation and little bit of Regex.
 Made Three projects, Luhn Algorithm, Cipher, A little Expense tracker and CaseConverter project implementing the things I learnt yesterday.
 ## Day-03
 Learnt about Sets, Tuples, Lists and Dictionaries and made two very small project Arithmetic Formatter Squareroot of number.
+## Day-4
+Visited back to Regex made appericate the regex made a project on the topic, Also took Algorithm Design & Recusion Topic and dive deep into it
