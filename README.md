@@ -8,3 +8,7 @@ Made Three projects, Luhn Algorithm, Cipher, A little Expense tracker and CaseCo
 Learnt about Sets, Tuples, Lists and Dictionaries and made two very small project Arithmetic Formatter Squareroot of number.
 ## Day-4
 Visited back to Regex made appericate the regex made a project on the topic, Also took Algorithm Design & Recusion Topic and dive deep into it
+## Day-5
+Just learned about new concepts and read alot.
+## Day-6
+Code TowerOfHanoiPuzzle and MergeSort Algorithm 
