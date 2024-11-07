@@ -1,5 +1,5 @@
 # 100DaysOfCode
-Welcome to my mini journal of 100Days of Code with Python 
+Welcome to my mini journal of 100Days of Code with Python
 ## Day-01
 Learnt about the Python basics, string manuplilation and little bit of Regex.
 ## Day-02 
@@ -12,3 +12,5 @@ Visited back to Regex made appericate the regex made a project on the topic, Als
 Just learned about new concepts and read alot.
 ## Day-6
 Code TowerOfHanoiPuzzle and MergeSort Algorithm 
+## Day-7
+Revisited OOPs and exception handling by building SudokuSolver.
