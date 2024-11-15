@@ -16,3 +16,4 @@ Code TowerOfHanoiPuzzle and MergeSort Algorithm
 Revisited OOPs and exception handling by building SudokuSolver
 ## Day-10
 Learnt about how Binary Search Tree by building it with freeCodeCamp and the main learning was private verus public class functions and implementing delete and search functions using helper functions.
+Made budget app for freeCodeCamp Certification.
