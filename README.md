@@ -11,6 +11,8 @@ Visited back to Regex made appericate the regex made a project on the topic, Als
 ## Day-5
 Just learned about new concepts and read alot.
 ## Day-6
-Code TowerOfHanoiPuzzle and MergeSort Algorithm 
+Code TowerOfHanoiPuzzle and MergeSort Algorithm
 ## Day-7
-Revisited OOPs and exception handling by building SudokuSolver.
+Revisited OOPs and exception handling by building SudokuSolver
+## Day-10
+Learnt about how Binary Search Tree by building it with freeCodeCamp and the main learning was private verus public class functions and implementing delete and search functions using helper functions.
